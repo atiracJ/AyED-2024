@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\etapa2\Nueva carpeta\0_Carita_LaCarreraDeHomero\0_Carita_LaCarreraDeHomero\bin\Debug\0_Carita_LaCarreraDeHomero.exe.config
+C:\Users\alumno.ET37\Documents\etapa2\Nueva carpeta\0_Carita_LaCarreraDeHomero\0_Carita_LaCarreraDeHomero\bin\Debug\0_Carita_LaCarreraDeHomero.exe
+C:\Users\alumno.ET37\Documents\etapa2\Nueva carpeta\0_Carita_LaCarreraDeHomero\0_Carita_LaCarreraDeHomero\bin\Debug\0_Carita_LaCarreraDeHomero.pdb
+C:\Users\alumno.ET37\Documents\etapa2\Nueva carpeta\0_Carita_LaCarreraDeHomero\0_Carita_LaCarreraDeHomero\obj\Debug\0_Carita_LaCarreraDeHomero.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\etapa2\Nueva carpeta\0_Carita_LaCarreraDeHomero\0_Carita_LaCarreraDeHomero\obj\Debug\0_Carita_LaCarreraDeHomero.exe
+C:\Users\alumno.ET37\Documents\etapa2\Nueva carpeta\0_Carita_LaCarreraDeHomero\0_Carita_LaCarreraDeHomero\obj\Debug\0_Carita_LaCarreraDeHomero.pdb
