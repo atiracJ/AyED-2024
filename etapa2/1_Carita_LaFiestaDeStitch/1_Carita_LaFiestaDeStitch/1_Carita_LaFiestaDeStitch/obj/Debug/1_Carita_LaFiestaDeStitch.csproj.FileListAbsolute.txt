@@ -1,6 +1,0 @@
-c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Carita_LaFiestaDeStitch\1_Carita_LaFiestaDeStitch\bin\Debug\1_Carita_LaFiestaDeStitch.exe.config
-c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Carita_LaFiestaDeStitch\1_Carita_LaFiestaDeStitch\bin\Debug\1_Carita_LaFiestaDeStitch.exe
-c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Carita_LaFiestaDeStitch\1_Carita_LaFiestaDeStitch\bin\Debug\1_Carita_LaFiestaDeStitch.pdb
-c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Carita_LaFiestaDeStitch\1_Carita_LaFiestaDeStitch\obj\Debug\1_Carita_LaFiestaDeStitch.csprojResolveAssemblyReference.cache
-c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Carita_LaFiestaDeStitch\1_Carita_LaFiestaDeStitch\obj\Debug\1_Carita_LaFiestaDeStitch.exe
-c:\users\alumno.et37\documents\visual studio 2015\Projects\1_Carita_LaFiestaDeStitch\1_Carita_LaFiestaDeStitch\obj\Debug\1_Carita_LaFiestaDeStitch.pdb
