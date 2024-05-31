@@ -1,0 +1,11 @@
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\2_Carita_BienvenidoACiudad\2_Carita_BienvenidoACiudad\bin\Debug\2_Carita_BienvenidoACiudad.exe.config
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\2_Carita_BienvenidoACiudad\2_Carita_BienvenidoACiudad\bin\Debug\2_Carita_BienvenidoACiudad.exe
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\2_Carita_BienvenidoACiudad\2_Carita_BienvenidoACiudad\bin\Debug\2_Carita_BienvenidoACiudad.pdb
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\2_Carita_BienvenidoACiudad\2_Carita_BienvenidoACiudad\obj\Debug\2_Carita_BienvenidoACiudad.exe
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\2_Carita_BienvenidoACiudad\2_Carita_BienvenidoACiudad\obj\Debug\2_Carita_BienvenidoACiudad.pdb
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\2_Carita_BienvenidoACiudad\2_Carita_BienvenidoACiudad\bin\Debug\2_Carita_BienvenidoACiudad.exe.config
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\2_Carita_BienvenidoACiudad\2_Carita_BienvenidoACiudad\obj\Debug\2_Carita_BienvenidoACiudad.exe
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\2_Carita_BienvenidoACiudad\2_Carita_BienvenidoACiudad\obj\Debug\2_Carita_BienvenidoACiudad.pdb
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\2_Carita_BienvenidoACiudad\2_Carita_BienvenidoACiudad\bin\Debug\2_Carita_BienvenidoACiudad.exe
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\2_Carita_BienvenidoACiudad\2_Carita_BienvenidoACiudad\bin\Debug\2_Carita_BienvenidoACiudad.pdb
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\2_Carita_BienvenidoACiudad\2_Carita_BienvenidoACiudad\obj\Debug\2_Carita_BienvenidoACiudad.csprojResolveAssemblyReference.cache
