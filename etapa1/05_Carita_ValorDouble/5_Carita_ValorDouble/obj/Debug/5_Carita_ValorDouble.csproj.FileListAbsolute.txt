@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\5_Carita_ValorDouble\5_Carita_ValorDouble\bin\Debug\5_Carita_ValorDouble.exe.config
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\5_Carita_ValorDouble\5_Carita_ValorDouble\bin\Debug\5_Carita_ValorDouble.exe
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\5_Carita_ValorDouble\5_Carita_ValorDouble\bin\Debug\5_Carita_ValorDouble.pdb
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\5_Carita_ValorDouble\5_Carita_ValorDouble\obj\Debug\5_Carita_ValorDouble.exe
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\5_Carita_ValorDouble\5_Carita_ValorDouble\obj\Debug\5_Carita_ValorDouble.pdb
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\5_Carita_ValorDouble\5_Carita_ValorDouble\obj\Debug\5_Carita_ValorDouble.csprojResolveAssemblyReference.cache
