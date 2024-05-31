@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\7_Carita_AlReves\7_Carita_AlReves\bin\Debug\7_Carita_AlReves.exe.config
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\7_Carita_AlReves\7_Carita_AlReves\bin\Debug\7_Carita_AlReves.exe
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\7_Carita_AlReves\7_Carita_AlReves\bin\Debug\7_Carita_AlReves.pdb
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\7_Carita_AlReves\7_Carita_AlReves\obj\Debug\7_Carita_AlReves.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\7_Carita_AlReves\7_Carita_AlReves\obj\Debug\7_Carita_AlReves.exe
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\7_Carita_AlReves\7_Carita_AlReves\obj\Debug\7_Carita_AlReves.pdb
