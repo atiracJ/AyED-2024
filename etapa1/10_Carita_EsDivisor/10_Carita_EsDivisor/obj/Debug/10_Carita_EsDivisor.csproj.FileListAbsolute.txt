@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\10_Carita_EsDivisor\10_Carita_EsDivisor\bin\Debug\10_Carita_EsDivisor.exe.config
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\10_Carita_EsDivisor\10_Carita_EsDivisor\bin\Debug\10_Carita_EsDivisor.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\10_Carita_EsDivisor\10_Carita_EsDivisor\bin\Debug\10_Carita_EsDivisor.pdb
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\10_Carita_EsDivisor\10_Carita_EsDivisor\obj\Debug\10_Carita_EsDivisor.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\10_Carita_EsDivisor\10_Carita_EsDivisor\obj\Debug\10_Carita_EsDivisor.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\10_Carita_EsDivisor\10_Carita_EsDivisor\obj\Debug\10_Carita_EsDivisor.pdb
