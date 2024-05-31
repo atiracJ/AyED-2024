@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\12_Carita_CobrarBeca\12_Carita_CobrarBeca\bin\Debug\12_Carita_CobrarBeca.exe.config
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\12_Carita_CobrarBeca\12_Carita_CobrarBeca\bin\Debug\12_Carita_CobrarBeca.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\12_Carita_CobrarBeca\12_Carita_CobrarBeca\bin\Debug\12_Carita_CobrarBeca.pdb
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\12_Carita_CobrarBeca\12_Carita_CobrarBeca\obj\Debug\12_Carita_CobrarBeca.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\12_Carita_CobrarBeca\12_Carita_CobrarBeca\obj\Debug\12_Carita_CobrarBeca.pdb
