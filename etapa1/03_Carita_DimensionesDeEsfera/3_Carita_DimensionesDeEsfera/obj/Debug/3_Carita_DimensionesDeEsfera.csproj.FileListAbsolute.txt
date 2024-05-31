@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\3_Carita_DimensionesDeEsfera\3_Carita_DimensionesDeEsfera\bin\Debug\3_Carita_DimensionesDeEsfera.exe.config
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\3_Carita_DimensionesDeEsfera\3_Carita_DimensionesDeEsfera\bin\Debug\3_Carita_DimensionesDeEsfera.exe
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\3_Carita_DimensionesDeEsfera\3_Carita_DimensionesDeEsfera\bin\Debug\3_Carita_DimensionesDeEsfera.pdb
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\3_Carita_DimensionesDeEsfera\3_Carita_DimensionesDeEsfera\obj\Debug\3_Carita_DimensionesDeEsfera.exe
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\3_Carita_DimensionesDeEsfera\3_Carita_DimensionesDeEsfera\obj\Debug\3_Carita_DimensionesDeEsfera.pdb
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\3_Carita_DimensionesDeEsfera\3_Carita_DimensionesDeEsfera\bin\Debug\3_Carita_DimensionesDeEsfera.exe.config
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\3_Carita_DimensionesDeEsfera\3_Carita_DimensionesDeEsfera\obj\Debug\3_Carita_DimensionesDeEsfera.exe
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\3_Carita_DimensionesDeEsfera\3_Carita_DimensionesDeEsfera\obj\Debug\3_Carita_DimensionesDeEsfera.pdb
+C:\Users\alumno.ET37\Documents\Etapa1\Nueva carpeta\3_Carita_DimensionesDeEsfera\3_Carita_DimensionesDeEsfera\obj\Debug\3_Carita_DimensionesDeEsfera.csprojResolveAssemblyReference.cache
