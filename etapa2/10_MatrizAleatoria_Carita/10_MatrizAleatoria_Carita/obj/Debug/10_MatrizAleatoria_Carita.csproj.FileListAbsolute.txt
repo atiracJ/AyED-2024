@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Nueva carpeta\10_MatrizAleatoria_Carita\10_MatrizAleatoria_Carita\bin\Debug\10_MatrizAleatoria_Carita.exe.config
+C:\Users\alumno.ET37\Documents\Nueva carpeta\10_MatrizAleatoria_Carita\10_MatrizAleatoria_Carita\bin\Debug\10_MatrizAleatoria_Carita.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\10_MatrizAleatoria_Carita\10_MatrizAleatoria_Carita\bin\Debug\10_MatrizAleatoria_Carita.pdb
+C:\Users\alumno.ET37\Documents\Nueva carpeta\10_MatrizAleatoria_Carita\10_MatrizAleatoria_Carita\obj\Debug\10_MatrizAleatoria_Carita.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Nueva carpeta\10_MatrizAleatoria_Carita\10_MatrizAleatoria_Carita\obj\Debug\10_MatrizAleatoria_Carita.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\10_MatrizAleatoria_Carita\10_MatrizAleatoria_Carita\obj\Debug\10_MatrizAleatoria_Carita.pdb
