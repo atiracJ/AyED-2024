@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Nueva carpeta\12_RotarMatriz90_Carita\12_RotarMatriz90_Carita\bin\Debug\12_RotarMatriz90_Carita.exe.config
+C:\Users\alumno.ET37\Documents\Nueva carpeta\12_RotarMatriz90_Carita\12_RotarMatriz90_Carita\bin\Debug\12_RotarMatriz90_Carita.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\12_RotarMatriz90_Carita\12_RotarMatriz90_Carita\bin\Debug\12_RotarMatriz90_Carita.pdb
+C:\Users\alumno.ET37\Documents\Nueva carpeta\12_RotarMatriz90_Carita\12_RotarMatriz90_Carita\obj\Debug\12_RotarMatriz90_Carita.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Nueva carpeta\12_RotarMatriz90_Carita\12_RotarMatriz90_Carita\obj\Debug\12_RotarMatriz90_Carita.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\12_RotarMatriz90_Carita\12_RotarMatriz90_Carita\obj\Debug\12_RotarMatriz90_Carita.pdb
