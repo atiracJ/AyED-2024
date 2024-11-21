@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\07_Carita_ContratacionSoft\07_Carita_ContratacionSoft\bin\Debug\07_Carita_ContratacionSoft.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\07_Carita_ContratacionSoft\07_Carita_ContratacionSoft\bin\Debug\07_Carita_ContratacionSoft.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\07_Carita_ContratacionSoft\07_Carita_ContratacionSoft\bin\Debug\07_Carita_ContratacionSoft.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\07_Carita_ContratacionSoft\07_Carita_ContratacionSoft\obj\Debug\07_Carita_ContratacionSoft.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\07_Carita_ContratacionSoft\07_Carita_ContratacionSoft\obj\Debug\07_Carita_ContratacionSoft.pdb
