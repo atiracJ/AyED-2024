@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\02_Carita_AreaVolumen\02_Carita_AreaVolumen\bin\Debug\02_Carita_AreaVolumen.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\02_Carita_AreaVolumen\02_Carita_AreaVolumen\bin\Debug\02_Carita_AreaVolumen.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\02_Carita_AreaVolumen\02_Carita_AreaVolumen\bin\Debug\02_Carita_AreaVolumen.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\02_Carita_AreaVolumen\02_Carita_AreaVolumen\obj\Debug\02_Carita_AreaVolumen.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\02_Carita_AreaVolumen\02_Carita_AreaVolumen\obj\Debug\02_Carita_AreaVolumen.pdb
