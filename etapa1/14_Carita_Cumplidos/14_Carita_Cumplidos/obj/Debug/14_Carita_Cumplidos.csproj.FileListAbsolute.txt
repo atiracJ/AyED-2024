@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\14_Carita_Cumplidos\14_Carita_Cumplidos\bin\Debug\14_Carita_Cumplidos.exe.config
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\14_Carita_Cumplidos\14_Carita_Cumplidos\bin\Debug\14_Carita_Cumplidos.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\14_Carita_Cumplidos\14_Carita_Cumplidos\bin\Debug\14_Carita_Cumplidos.pdb
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\14_Carita_Cumplidos\14_Carita_Cumplidos\obj\Debug\14_Carita_Cumplidos.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\14_Carita_Cumplidos\14_Carita_Cumplidos\obj\Debug\14_Carita_Cumplidos.pdb
