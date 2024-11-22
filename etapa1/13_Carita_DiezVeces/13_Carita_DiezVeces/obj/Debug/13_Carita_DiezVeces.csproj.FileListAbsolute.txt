@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\13_Carita_DiezVeces\13_Carita_DiezVeces\bin\Debug\13_Carita_DiezVeces.exe.config
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\13_Carita_DiezVeces\13_Carita_DiezVeces\bin\Debug\13_Carita_DiezVeces.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\13_Carita_DiezVeces\13_Carita_DiezVeces\bin\Debug\13_Carita_DiezVeces.pdb
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\13_Carita_DiezVeces\13_Carita_DiezVeces\obj\Debug\13_Carita_DiezVeces.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\Nueva carpeta\13_Carita_DiezVeces\13_Carita_DiezVeces\obj\Debug\13_Carita_DiezVeces.pdb
