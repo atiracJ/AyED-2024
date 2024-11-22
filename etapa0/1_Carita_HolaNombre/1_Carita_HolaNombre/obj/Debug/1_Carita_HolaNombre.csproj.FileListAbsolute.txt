@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Carita2024\etapa0\archivos\1_Carita_HolaNombre\1_Carita_HolaNombre\bin\Debug\1_Carita_HolaNombre.exe.config
+C:\Users\alumno.ET37\Documents\Carita2024\etapa0\archivos\1_Carita_HolaNombre\1_Carita_HolaNombre\bin\Debug\1_Carita_HolaNombre.exe
+C:\Users\alumno.ET37\Documents\Carita2024\etapa0\archivos\1_Carita_HolaNombre\1_Carita_HolaNombre\bin\Debug\1_Carita_HolaNombre.pdb
+C:\Users\alumno.ET37\Documents\Carita2024\etapa0\archivos\1_Carita_HolaNombre\1_Carita_HolaNombre\obj\Debug\1_Carita_HolaNombre.exe
+C:\Users\alumno.ET37\Documents\Carita2024\etapa0\archivos\1_Carita_HolaNombre\1_Carita_HolaNombre\obj\Debug\1_Carita_HolaNombre.pdb
