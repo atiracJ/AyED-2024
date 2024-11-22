@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\00_Carita_MiPrimerFuncion\00_Carita_MiPrimerFuncion\bin\Debug\00_Carita_MiPrimerFuncion.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\00_Carita_MiPrimerFuncion\00_Carita_MiPrimerFuncion\bin\Debug\00_Carita_MiPrimerFuncion.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\00_Carita_MiPrimerFuncion\00_Carita_MiPrimerFuncion\bin\Debug\00_Carita_MiPrimerFuncion.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\00_Carita_MiPrimerFuncion\00_Carita_MiPrimerFuncion\obj\Debug\00_Carita_MiPrimerFuncion.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\00_Carita_MiPrimerFuncion\00_Carita_MiPrimerFuncion\obj\Debug\00_Carita_MiPrimerFuncion.pdb
