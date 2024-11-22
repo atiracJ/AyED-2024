@@ -1,0 +1,5 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\04_Carita_ABM_DibuAventuras\04_Carita_ABM_DibuAventuras\bin\Debug\04_Carita_ABM_DibuAventuras.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\04_Carita_ABM_DibuAventuras\04_Carita_ABM_DibuAventuras\bin\Debug\04_Carita_ABM_DibuAventuras.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\04_Carita_ABM_DibuAventuras\04_Carita_ABM_DibuAventuras\bin\Debug\04_Carita_ABM_DibuAventuras.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\04_Carita_ABM_DibuAventuras\04_Carita_ABM_DibuAventuras\obj\Debug\04_Carita_ABM_DibuAventuras.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\04_Carita_ABM_DibuAventuras\04_Carita_ABM_DibuAventuras\obj\Debug\04_Carita_ABM_DibuAventuras.pdb
