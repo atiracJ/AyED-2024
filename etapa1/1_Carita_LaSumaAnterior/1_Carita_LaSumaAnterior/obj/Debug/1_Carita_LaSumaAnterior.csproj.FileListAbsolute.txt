@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\1_Carita_LaSumaAnterior\1_Carita_LaSumaAnterior\bin\Debug\1_Carita_LaSumaAnterior.exe.config
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\1_Carita_LaSumaAnterior\1_Carita_LaSumaAnterior\obj\Debug\1_Carita_LaSumaAnterior.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\1_Carita_LaSumaAnterior\1_Carita_LaSumaAnterior\bin\Debug\1_Carita_LaSumaAnterior.exe
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\1_Carita_LaSumaAnterior\1_Carita_LaSumaAnterior\bin\Debug\1_Carita_LaSumaAnterior.pdb
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\1_Carita_LaSumaAnterior\1_Carita_LaSumaAnterior\obj\Debug\1_Carita_LaSumaAnterior.exe
+C:\Users\alumno.ET37\Documents\Carita2024\Etapa1\Nueva carpeta\1_Carita_LaSumaAnterior\1_Carita_LaSumaAnterior\obj\Debug\1_Carita_LaSumaAnterior.pdb
