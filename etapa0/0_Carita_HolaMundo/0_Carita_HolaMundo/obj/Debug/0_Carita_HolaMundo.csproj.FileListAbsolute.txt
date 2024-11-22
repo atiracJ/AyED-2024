@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Carita2024\etapa0\archivos\0_Carita_HolaMundo\0_Carita_HolaMundo\bin\Debug\0_Carita_HolaMundo.exe.config
+C:\Users\alumno.ET37\Documents\Carita2024\etapa0\archivos\0_Carita_HolaMundo\0_Carita_HolaMundo\bin\Debug\0_Carita_HolaMundo.exe
+C:\Users\alumno.ET37\Documents\Carita2024\etapa0\archivos\0_Carita_HolaMundo\0_Carita_HolaMundo\bin\Debug\0_Carita_HolaMundo.pdb
+C:\Users\alumno.ET37\Documents\Carita2024\etapa0\archivos\0_Carita_HolaMundo\0_Carita_HolaMundo\obj\Debug\0_Carita_HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Carita2024\etapa0\archivos\0_Carita_HolaMundo\0_Carita_HolaMundo\obj\Debug\0_Carita_HolaMundo.exe
+C:\Users\alumno.ET37\Documents\Carita2024\etapa0\archivos\0_Carita_HolaMundo\0_Carita_HolaMundo\obj\Debug\0_Carita_HolaMundo.pdb
